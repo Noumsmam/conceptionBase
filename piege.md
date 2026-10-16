@@ -13,3 +13,7 @@ exemple :
 
 # Etape 3
 on place la quantite dans une table associative entre la table commande et la table plat
+
+# Etape 4 
+- La cle etrangere n est pas not null pour permettre d avoir des client non habituer 
+- Il faut utiliser LEFT JOIN pour ne perdre aucune commande 
